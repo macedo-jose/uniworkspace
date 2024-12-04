@@ -1,0 +1,180 @@
+{
+	"folders": [
+		{
+			"name": "001-Hello World",
+			"path": "001-Hello World"
+		},
+		{
+			"name": "002-Variables and Simple Expressions",
+			"path": "002-Variables and Simple Expressions"
+		},
+		{
+			"name": "003-Increment and Decrement Operators",
+			"path": "003-Increment and Decrement Operators"
+		},
+		{
+			"name": "004-Primitive Types",
+			"path": "004-Primitive Types"
+		},
+		{
+			"name": "005-Console Input",
+			"path": "005-Console Input"
+		},
+		{
+			"name": "006a-Conditions",
+			"path": "006a-Conditions"
+		},
+		{
+			"name": "006b-Conditions and Curly Brackets",
+			"path": "006b-Conditions and Curly Brackets"
+		},
+		{
+			"name": "007-Logical Expressions",
+			"path": "007-Logical Expressions"
+		},
+		{
+			"name": "008-Switch",
+			"path": "008-Switch"
+		},
+		{
+			"name": "009-While Loop",
+			"path": "009-While Loop"
+		},
+		{
+			"name": "010-For Loop",
+			"path": "010-For Loop"
+		},
+		{
+			"name": "011-Loop Conditions",
+			"path": "011-Loop Conditions"
+		},
+		{
+			"name": "012a-Towards Arrays",
+			"path": "012a-Towards Arrays"
+		},
+		{
+			"name": "012b-Simple Arrays",
+			"path": "012b-Simple Arrays"
+		},
+		{
+			"name": "012c-Multi-Dimensional Arrays",
+			"path": "012c-Multi-Dimensional Arrays"
+		},
+		{
+			"name": "013a-Towards Methods",
+			"path": "013a-Towards Methods"
+		},
+		{
+			"name": "013b-Simple Method",
+			"path": "013b-Simple Method"
+		},
+		{
+			"name": "013c-Passing Arguments",
+			"path": "013c-Passing Arguments"
+		},
+		{
+			"name": "014a-Classes and Object References",
+			"path": "014a-Classes and Object References"
+		},
+		{
+			"name": "014b-Setters and Validation",
+			"path": "014b-Setters and Validation"
+		},
+		{
+			"name": "014c-Passing Object References",
+			"path": "014c-Passing Object References"
+		},
+		{
+			"name": "015-Association, Aggregation, Composition",
+			"path": "015-Association, Aggregation, Composition"
+		},
+		{
+			"name": "015a-Composition",
+			"path": "015a-Composition"
+		},
+		{
+			"name": "015b-Aggregation",
+			"path": "015b-Aggregation"
+		},
+		{
+			"name": "015c-Relationships Case Study",
+			"path": "015c-Relationships Case Study"
+		},
+		{
+			"name": "016-Simple Inheritance",
+			"path": "016-Simple Inheritance"
+		},
+		{
+			"name": "017-Liskov Substitution Principle",
+			"path": "017-Liskov Substitution Principle"
+		},
+		{
+			"name": "018-Subtyping Gone Wrong",
+			"path": "018-Subtyping Gone Wrong"
+		},
+		{
+			"name": "019a-Imperative Approach [Layout]",
+			"path": "019a-Imperative Approach [Layout]"
+		},
+		{
+			"name": "019b-Basic Inheritance [Layout]",
+			"path": "019b-Basic Inheritance [Layout]"
+		},
+		{
+			"name": "019c-Visibility [Layout]",
+			"path": "019c-Visibility [Layout]"
+		},
+		{
+			"name": "019d-Abstract Base Class [Layout]",
+			"path": "019d-Abstract Base Class [Layout]"
+		},
+		{
+			"name": "019e-Polymorphic Components [Layout]",
+			"path": "019e-Polymorphic Components [Layout]"
+		},
+		{
+			"name": "019f-Separation of Concerns [Layout]",
+			"path": "019f-Separation of Concerns [Layout]"
+		},
+		{
+			"name": "019g-Nesting Initial Approach [Layout]",
+			"path": "019g-Nesting Initial Approach [Layout]"
+		},
+		{
+			"name": "019h-Composite Pattern [Layout]",
+			"path": "019h-Composite Pattern [Layout]"
+		},
+		{
+			"name": "020-Singleton Pattern",
+			"path": "020-Singleton Pattern"
+		},
+		{
+			"name": "021-Enum Basics",
+			"path": "021-Enum Basics"
+		},
+		{
+			"name": "022-Object References and Equality",
+			"path": "022-Object References and Equality"
+		},
+		{
+			"name": "023-Equals and hashCode",
+			"path": "023-Equals and hashCode"
+		},
+		{
+			"name": "023a-Equals and null Safety",
+			"path": "023a-Equals and null Safety"
+		},
+		{
+			"name": "023b-Equality of Strings",
+			"path": "023b-Equality of Strings"
+		},
+		{
+			"name": "024-Generics Introduction",
+			"path": "024-Generics Introduction"
+		},
+		{
+			"name": "025-Generic Collections",
+			"path": "025-Generic Collections"
+		}
+	]
+}

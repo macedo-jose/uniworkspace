@@ -1,0 +1,5 @@
+- visibility: access to 'components' attribute is possible --> use access modifiers
+- show() is only available in subclasses of Layout; renders Layout's purpose as base class virtually useless --> make (abstract) method of Layout
+- Components are shown (i.e. printed) via toString --> should make show (polymorphic) behavior of Component
+- cannot change Layout independently of Components afterwards --> should create separate Container to hold Components
+- error handling is crappy --> Exception handling (later)
